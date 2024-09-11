@@ -1,0 +1,2 @@
+En esta carpeta iran los recursos necesarios para el uso adecuado de la aplicacion
+por ejemplo un listado de id de usuario para seleccionar
